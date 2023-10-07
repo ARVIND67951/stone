@@ -1,0 +1,79 @@
+@media(max-width:480px){
+	.top-header{ text-align:center;}
+	
+	.top-header .navbar-nav > li > a{ padding:3px 0;}
+	.icon{ margin-top:5px;}
+	.navbar-brand{ padding:0 15px;}
+	.navbar-brand img{ max-width:70%;}
+	.navbar{ min-height:50px;margin-bottom: 5px;}
+	.navbar-toggle{ background:#000; margin-top:20px;}
+	.navbar-toggle .icon-bar{ background:#fff;}
+	.whatsapp{ max-width:8%;bottom: 10px;left: 10px;}
+	.carousel-caption{ bottom:4px !important; text-align:right !important;}
+	.carousel-caption h1{ font-size:22px !important;}
+	.carousel-caption p{ font-size:10px !important;text-align: center;}
+	.carousel-caption .btn{ font-size:10px !important; padding:5px 10px !important;}
+	.land{ padding:20px 0; text-align:center;}
+	.Stone-land h2{ font-size:20px;}
+	.Stone-land p{ font-size:14px;}
+	.Factory h3{ font-size:20px;}
+	.PRODUCTS h2{ font-size:20px;}
+	.sand-logo img{ text-align:center;}
+	.address ul li a{font-size:11px;}
+	.granites h1{font-size:25px;}
+}
+
+
+@media(max-width:767px){
+	
+	.navbar-toggle{ background:#000; margin-top:20px;}
+	.navbar-toggle .icon-bar{ background:#fff;}
+	.carousel-caption{padding-bottom:0px;}
+	.carousel-caption h1{font-size:30px;}
+	.carousel-caption p{font-size:13px;}
+	.navbar-toggle{margin-top:33px;}
+	.btn-lg, .btn-group-lg > .btn{padding: 6px 19px;font-size: 14px;float: right;}
+    .Stone-land h2{font-size:20px;}
+    .Stone-land p{font-size:11px;}
+    .Factory h3 {font-size: 20px;}
+    .PRODUCTS h2{font-size: 20px;}
+    .top-header .navbar-nav > li > a{text-align:center;}
+	.navbar-nav {text-align: center;}
+	.whatsapp {position: absolute;bottom: 13px;left: 35px; max-width: 47px;}
+}
+
+
+@media(max-width:768px) and (max-width:991px){
+	.top-header .navbar-nav > li > a{font-size:13px!important;}
+
+	.navbar .navbar-nav > li a{ font-size:11px!important;}
+	.navbar .navbar-right {margin-top:0px!important;}
+	.land { padding-top: 14px;}
+	.carousel-caption { padding-bottom: 17px;}
+	.carousel-caption h1{font-size:31px;}
+	.carousel-caption p{font-size:13px;}
+	.btn-lg, .btn-group-lg > .btn {padding: 7px 25px;font-size: 13px;}
+	.whatsapp {position: absolute;bottom: 20px;left: 35px;max-width: 50px;}
+	
+	
+}	
+@media(max-width:1024px){
+	.top-header .navbar-nav > li > a{font-size:13px;}
+	.navbar .navbar-right{margin-top:-12px!important;}
+	.navbar .navbar-nav > li a{font-size:12px!important;}
+	.carousel-caption h1{font-size:40px;}
+	.carousel-caption p{font-size:15px;}
+	.navbar .navbar-nav > li a{padding:8px 19px;}
+	
+	
+}
+
+Url: creativewebpixel.com/cpanel
+
+Username: 
+
+Password: 
+
+
+
+
