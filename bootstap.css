@@ -6657,7 +6657,7 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
   .visible-lg {
     display: block !important;
   }
@@ -6672,17 +6672,17 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
   .visible-lg-block {
     display: block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
   .visible-lg-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
   .visible-lg-inline-block {
     display: inline-block !important;
   }
